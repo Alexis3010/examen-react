@@ -1,7 +1,7 @@
 [
    {
       "id": 3,
-      "poster": "./posters/3.jpg",
+      "poster": "/posters/3.jpg",
       "titulo": "The Mandalorian",
       "categoria": "Serie",
       "genero": "Sci-Fi, Fantasía, Acción",
@@ -14,7 +14,7 @@
    },
    {
       "id": 4,
-      "poster": "./posters/4.jpg",
+      "poster": "/posters/4.jpg",
       "titulo": "The Umbrella Academy",
       "categoria": "Serie",
       "gen": "Ciencia Ficción",
@@ -27,7 +27,7 @@
    },
    {
       "id": 5,
-      "poster": "./posters/5.jpg",
+      "poster": "/posters/5.jpg",
       "titulo": "Gambito de Dama",
       "categoria": "Serie",
       "gen": "Drama",
@@ -40,7 +40,7 @@
    },
    {
       "id": 2,
-      "poster": "./posters/2.jpg",
+      "poster": "/posters/2.jpg",
       "titulo": "Riverdale",
       "categoria": "Serie",
       "gen": "Drama",
@@ -53,7 +53,7 @@
       },
    {
       "id": 1,
-      "poster": "./posters/1.jpg",
+      "poster": "/posters/1.jpg",
       "titulo": "The Crown",
       "categoria": "Serie",
       "gen": "Suceso Real",
@@ -66,7 +66,7 @@
       },
    {
       "id": 6,
-      "poster": "./posters/6.jpg",
+      "poster": "/posters/6.jpg",
       "titulo": "Enola Holmes",
       "categoria": "Película",
       "gen": "Drama",
@@ -80,7 +80,7 @@
    },
    {
       "id": 7,
-      "poster": "./posters/7.jpg",
+      "poster": "/posters/7.jpg",
       "titulo": "Guasón",
       "categoria": "Película",
       "gen": "Suspenso",
@@ -94,7 +94,7 @@
    },
    {
       "id": 8,
-      "poster": "./posters/8.jpg",
+      "poster": "/posters/8.jpg",
       "titulo": "Avengers: End Game",
       "categoria": "Película",
       "gen": "Ciencia Ficción",
@@ -108,7 +108,7 @@
    },
    {
       "id": 9,
-      "poster": "./posters/9.jpg",
+      "poster": "/posters/9.jpg",
       "titulo": "Juego de tronos",
       "categoria": "Serie",
       "gen": "Fantasía",
@@ -121,7 +121,7 @@
    },
    {
       "id": 10,
-      "poster": "./posters/10.jpg",
+      "poster": "/posters/10.jpg",
       "titulo": "The Flash",
       "categoria": "Serie",
       "gen": "Ciencia Ficción",
@@ -134,7 +134,7 @@
    },
    {
       "id": 11,
-      "poster": "./posters/11.jpg",
+      "poster": "/posters/11.jpg",
       "titulo": "The Big Bang Theory",
       "categoria": "Serie",
       "gen": "Comedia",
@@ -147,7 +147,7 @@
    },
    {
       "id": 12,
-      "poster": "./posters/12.jpg",
+      "poster": "/posters/12.jpg",
       "titulo": "Friends",
       "categoria": "Serie",
       "gen": "Comedia",
@@ -160,7 +160,7 @@
    },
    {
       "id": 13,
-      "poster": "./posters/13.jpg",
+      "poster": "/posters/13.jpg",
       "titulo": "Anne with an 'E'",
       "categoria": "Serie",
       "gen": "Familia",
@@ -173,7 +173,7 @@
    },
    {
       "id": 14,
-      "poster": "./posters/14.jpg",
+      "poster": "/posters/14.jpg",
       "titulo": "Expedientes Secretos 'X'",
       "categoria": "Serie",
       "gen": "Ciencia Ficción",
@@ -186,7 +186,7 @@
    },
    {
       "id": 15,
-      "poster": "./posters/15.jpg",
+      "poster": "/posters/15.jpg",
       "titulo": "Chernobyl",
       "categoria": "Serie",
       "gen": "Suceso Real",
@@ -199,7 +199,7 @@
    },
    {
       "id": 16,
-      "poster": "./posters/16.jpg",
+      "poster": "/posters/16.jpg",
       "titulo": "Westworld",
       "categoria": "Serie",
       "gen": "Ciencia Ficción",
@@ -212,7 +212,7 @@
    },
    {
       "id": 17,
-      "poster": "./posters/17.jpg",
+      "poster": "/posters/17.jpg",
       "titulo": "Halt and Catch Fire",
       "categoria": "Serie",
       "gen": "Drama",
@@ -225,7 +225,7 @@
    },
    {
       "id": 18,
-      "poster": "./posters/18.jpg",
+      "poster": "/posters/18.jpg",
       "titulo": "Ava",
       "categoria": "Película",
       "gen": "Acción",
@@ -239,7 +239,7 @@
    },
    {
       "id": 19,
-      "poster": "./posters/19.jpg",
+      "poster": "/posters/19.jpg",
       "titulo": "Aves de presa (Harley Quinn)",
       "categoria": "Película",
       "gen": "Ciencia Ficción",
@@ -253,7 +253,7 @@
    },
    {
       "id": 20,
-      "poster": "./posters/20.jpg",
+      "poster": "/posters/20.jpg",
       "titulo": "Archivo",
       "categoria": "Película",
       "gen": "Ciencia Ficción",
@@ -267,7 +267,7 @@
    },
    {
       "id": 22,
-      "poster": "./posters/22.jpg",
+      "poster": "/posters/22.jpg",
       "titulo": "3022",
       "categoria": "Película",
       "gen": "Suspenso",
@@ -281,7 +281,7 @@
    },
    {
       "id": 23,
-      "poster": "./posters/23.jpg",
+      "poster": "/posters/23.jpg",
       "titulo": "IT - Capítulo 2",
       "categoria": "Película",
       "gen": "Terror",
@@ -295,7 +295,7 @@
    },
    {
       "id": 24,
-      "poster": "./posters/24.jpg",
+      "poster": "/posters/24.jpg",
       "titulo": "Pantera Negra",
       "categoria": "Película",
       "gen": "Ciencia Ficción",
@@ -309,7 +309,7 @@
    },
    {
       "id": 25,
-      "poster": "./posters/25.jpg",
+      "poster": "/posters/25.jpg",
       "titulo": "Contra lo imposible (Ford versus Ferrari)",
       "categoria": "Película",
       "gen": "Suceso Real",
@@ -323,7 +323,7 @@
    },
    {
       "id": 26,
-      "poster": "./posters/26.jpg",
+      "poster": "/posters/26.jpg",
       "titulo": "Centígrados",
       "categoria": "Película",
       "gen": "Suspenso",
@@ -337,7 +337,7 @@
    },
    {
       "id": 27,
-      "poster": "./posters/27.jpg",
+      "poster": "/posters/27.jpg",
       "titulo": "DOOM: Aniquilación",
       "categoria": "Película",
       "gen": "Terror",
@@ -351,7 +351,7 @@
    },
    {
       "id": 28,
-      "poster": "./posters/28.jpg",
+      "poster": "/posters/28.jpg",
       "titulo": "Contagio",
       "categoria": "Película",
       "gen": "Drama",
@@ -365,7 +365,7 @@
    },
    {
       "id": 29,
-      "poster": "./posters/29.jpg",
+      "poster": "/posters/29.jpg",
       "titulo": "Viuda Negra",
       "categoria": "Película",
       "gen": "Acción",
@@ -379,7 +379,7 @@
    },
    {
       "id": 30,
-      "poster": "./posters/30.jpg",
+      "poster": "/posters/30.jpg",
       "titulo": "The Martian",
       "categoria": "Película",
       "gen": "Ciencia Ficción",
@@ -393,7 +393,7 @@
    },
    {
       "id": 31,
-      "poster": "./posters/31.jpg",
+      "poster": "/posters/31.jpg",
       "titulo": "Ex-Machina",
       "categoria": "Película",
       "gen": "Ciencia Ficción",
@@ -407,7 +407,7 @@
    },
    {
       "id": 32,
-      "poster": "./posters/32.jpg",
+      "poster": "/posters/32.jpg",
       "titulo": "Jurassic World",
       "categoria": "Película",
       "gen": "Aventura",
@@ -421,7 +421,7 @@
    },
    {
       "id": 33,
-      "poster": "./posters/33.jpg",
+      "poster": "/posters/33.jpg",
       "titulo": "Soy leyenda",
       "categoria": "Película",
       "gen": "Terror",
@@ -435,7 +435,7 @@
    },
    {
       "id": 34,
-      "poster": "./posters/34.jpg",
+      "poster": "/posters/34.jpg",
       "titulo": "El primer hombre en la luna",
       "categoria": "Película",
       "gen": "Suceso Real",
@@ -449,7 +449,7 @@
    },
    {
       "id": 35,
-      "poster": "./posters/35.jpg",
+      "poster": "/posters/35.jpg",
       "titulo": "Titanes del pacífico - La insurrección",
       "categoria": "Película",
       "gen": "Ciencia Ficción",
@@ -463,7 +463,7 @@
    },
    {
       "id": 36,
-      "poster": "./posters/36.jpg",
+      "poster": "/posters/36.jpg",
       "titulo": "JOBS: La Vida De Steve Jobs",
       "categoria": "Película",
       "gen": "Suceso Real",
@@ -477,7 +477,7 @@
    },
    {
       "id": 37,
-      "poster": "./posters/37.jpg",
+      "poster": "/posters/37.jpg",
       "titulo": "Piratas de Silicon Valey",
       "categoria": "Película",
       "gen": "Suceso Real",
@@ -491,7 +491,7 @@
    },
    {
       "id": 38,
-      "poster": "./posters/38.jpg",
+      "poster": "/posters/38.jpg",
       "titulo": "Red Social",
       "categoria": "Película",
       "gen": "Suceso Real",
@@ -505,7 +505,7 @@
    },
    {
       "id": 39,
-      "poster": "./posters/39.jpg",
+      "poster": "/posters/39.jpg",
       "titulo": "Antitrust",
       "categoria": "Película",
       "gen": "Acción",
@@ -519,7 +519,7 @@
    },
    {
       "id": 40,
-      "poster": "./posters/40.jpg",
+      "poster": "/posters/40.jpg",
       "titulo": "Stowaway",
       "categoria": "Película",
       "gen": "Ciencia Ficción",
@@ -533,7 +533,7 @@
    },
    {
       "id": 41,
-      "poster": "./posters/41.jpg",
+      "poster": "/posters/41.jpg",
       "titulo": "Liga de la Justicia - Zack Snyder",
       "categoria": "Película",
       "gen": "Acción",
@@ -547,7 +547,7 @@
    },
    {
       "id": 42,
-      "poster": "./posters/42.jpg",
+      "poster": "/posters/42.jpg",
       "titulo": "Two and a half men",
       "categoria": "Serie",
       "gen": "Comedia",
@@ -561,7 +561,7 @@
    },
    {
       "id": 43,
-      "poster": "./posters/43.jpg",
+      "poster": "/posters/43.jpg",
       "titulo": "La casa de Papel",
       "categoria": "Serie",
       "gen": "Acción",
@@ -575,7 +575,7 @@
    },
    {
       "id": 44,
-      "poster": "./posters/44.jpg",
+      "poster": "/posters/44.jpg",
       "titulo": "Stranger Things",
       "categoria": "Serie",
       "gen": "Suspenso",
@@ -589,7 +589,7 @@
    },
    {
       "id": 45,
-      "poster": "./posters/45.jpg",
+      "poster": "/posters/45.jpg",
       "titulo": "Gravity",
       "categoria": "Película",
       "gen": "Suspenso",
@@ -603,7 +603,7 @@
    },
    {
       "id": 49,
-      "poster": "./posters/49.jpg",
+      "poster": "/posters/49.jpg",
       "titulo": "It (eso)",
       "categoria": "Película",
       "gen": "Terror",
@@ -617,7 +617,7 @@
    },
    {
       "id": 46,
-      "poster": "./posters/46.jpg",
+      "poster": "/posters/46.jpg",
       "titulo": "Apollo 13",
       "categoria": "Película",
       "gen": "Suceso Real",
@@ -631,7 +631,7 @@
    },
    {
       "id": 47,
-      "poster": "./posters/47.jpg",
+      "poster": "/posters/47.jpg",
       "titulo": "La profecía",
       "categoria": "Película",
       "gen": "Terror",
@@ -645,7 +645,7 @@
    },
    {
       "id": 48,
-      "poster": "./posters/48.jpg",
+      "poster": "/posters/48.jpg",
       "titulo": "El exorcista",
       "categoria": "Película",
       "gen": "Terror",
@@ -659,7 +659,7 @@
    },
    {
       "id": 50,
-      "poster": "./posters/50.jpg",
+      "poster": "/posters/50.jpg",
       "titulo": "The Office",
       "categoria": "Serie",
       "gen": "Comedia",
@@ -673,7 +673,7 @@
    },
    {
       "id": 51,
-      "poster": "./posters/51.jpg",
+      "poster": "/posters/51.jpg",
       "titulo": "The Good Doctor",
       "categoria": "Serie",
       "gen": "Familia",
@@ -687,7 +687,7 @@
    },
    {
       "id": 52,
-      "poster": "./posters/52.jpg",
+      "poster": "/posters/52.jpg",
       "titulo": "La teoría del todo",
       "categoria": "Película",
       "gen": "Suceso Real",
@@ -701,7 +701,7 @@
    },
    {
       "id": 53,
-      "poster": "./posters/53.jpg",
+      "poster": "/posters/53.jpg",
       "titulo": "Código enigma",
       "categoria": "Película",
       "gen": "Suceso Real",
@@ -715,7 +715,7 @@
    },
    {
       "id": 54,
-      "poster": "./posters/54.jpg",
+      "poster": "/posters/54.jpg",
       "titulo": "Talentos ocultos",
       "categoria": "Película",
       "gen": "Suceso Real",
@@ -729,7 +729,7 @@
    },
    {
       "id": 55,
-      "poster": "./posters/55.jpg",
+      "poster": "/posters/55.jpg",
       "titulo": "Una mente brillante",
       "categoria": "Película",
       "gen": "Suceso Real",
@@ -743,7 +743,7 @@
    },
    {
       "id": 56,
-      "poster": "./posters/56.jpg",
+      "poster": "/posters/56.jpg",
       "titulo": "Passengers",
       "categoria": "Película",
       "gen": "Ciencia Ficción",
@@ -757,7 +757,7 @@
    },
    {
       "id": 57,
-      "poster": "./posters/57.jpg",
+      "poster": "/posters/57.jpg",
       "titulo": "Passengers",
       "categoria": "Película",
       "gen": "Suspenso",
@@ -771,7 +771,7 @@
    },
    {
       "id": 58,
-      "poster": "./posters/58.jpg",
+      "poster": "/posters/58.jpg",
       "titulo": "Argo",
       "categoria": "Película",
       "gen": "Suceso Real",
@@ -785,7 +785,7 @@
    },
    {
       "id": 59,
-      "poster": "./posters/59.jpg",
+      "poster": "/posters/59.jpg",
       "titulo": "Prometheus",
       "categoria": "Película",
       "gen": "Ciencia Ficción",
@@ -799,7 +799,7 @@
    },
    {
       "id": 60,
-      "poster": "./posters/60.jpg",
+      "poster": "/posters/60.jpg",
       "titulo": "Alien: Covenant",
       "categoria": "Película",
       "gen": "Ciencia Ficción",
@@ -813,7 +813,7 @@
    },
    {
       "id": 61,
-      "poster": "./posters/61.jpg",
+      "poster": "/posters/61.jpg",
       "titulo": "Life: Vida inteligente",
       "categoria": "Película",
       "gen": "Suspenso",
@@ -827,7 +827,7 @@
    },
    {
       "id": 62,
-      "poster": "./posters/62.jpg",
+      "poster": "/posters/62.jpg",
       "titulo": "Madame Curie",
       "categoria": "Película",
       "gen": "Suceso Real",
@@ -841,7 +841,7 @@
    },
    {
       "id": 63,
-      "poster": "./posters/63.jpg",
+      "poster": "/posters/63.jpg",
       "titulo": "The IT Crowd",
       "categoria": "Serie",
       "gen": "Comedia",
@@ -855,7 +855,7 @@
    },
    {
       "id": 64,
-      "poster": "./posters/64.jpg",
+      "poster": "/posters/64.jpg",
       "titulo": "Humans",
       "categoria": "Serie",
       "gen": "Ciencia Ficción",
@@ -869,7 +869,7 @@
    },
    {
       "id": 65,
-      "poster": "./posters/65.jpg",
+      "poster": "/posters/65.jpg",
       "titulo": "Need for Speed",
       "categoria": "Película",
       "gen": "Acción",
@@ -883,7 +883,7 @@
    },
    {
       "id": 66,
-      "poster": "./posters/66.jpg",
+      "poster": "/posters/66.jpg",
       "titulo": "Mare of Easttown",
       "categoria": "Serie",
       "gen": "Drama",
@@ -897,7 +897,7 @@
    },
    {
       "id": 67,
-      "poster": "./posters/67.jpg",
+      "poster": "/posters/67.jpg",
       "titulo": "Ray",
       "categoria": "Película",
       "gen": "Suceso Real",
@@ -911,7 +911,7 @@
    },
    {
       "id": 68,
-      "poster": "./posters/68.jpg",
+      "poster": "/posters/68.jpg",
       "titulo": "Black Mirror",
       "categoria": "Serie",
       "gen": "Ciencia Ficción",
@@ -925,7 +925,7 @@
    },
    {
       "id": 69,
-      "poster": "./posters/69.jpg",
+      "poster": "/posters/69.jpg",
       "titulo": "Detrás de sus ojos",
       "categoria": "Serie",
       "gen": "Drama",
@@ -939,7 +939,7 @@
    },
    {
       "id": 70,
-      "poster": "./posters/70.jpg",
+      "poster": "/posters/70.jpg",
       "titulo": "Her",
       "categoria": "Película",
       "gen": "Ciencia Ficción",
@@ -953,7 +953,7 @@
    },
    {
       "id": 71,
-      "poster": "./posters/71.jpg",
+      "poster": "/posters/71.jpg",
       "titulo": "Misión Imposible",
       "categoria": "Película",
       "gen": "Acción",
@@ -967,7 +967,7 @@
    },
    {
       "id": 72,
-      "poster": "./posters/72.jpg",
+      "poster": "/posters/72.jpg",
       "titulo": "El agente de C.I.P.O.L.",
       "categoria": "Película",
       "gen": "Acción",
@@ -981,7 +981,7 @@
    },
    {
       "id": 73,
-      "poster": "./posters/73.jpg",
+      "poster": "/posters/73.jpg",
       "titulo": "Jumanji - Bienvenidos a la jungla",
       "categoria": "Película",
       "gen": "Fantasía",
@@ -995,7 +995,7 @@
    },
    {
       "id": 21,
-      "poster": "./posters/21.jpg",
+      "poster": "/posters/21.jpg",
       "titulo": "Jumanji - The next level",
       "categoria": "Película",
       "gen": "Fantasía",
@@ -1009,7 +1009,7 @@
    },
    {
       "id": 74,
-      "poster": "./posters/74.jpg",
+      "poster": "/posters/74.jpg",
       "titulo": "Mujer Maravilla 1984",
       "categoria": "Película",
       "gen": "Fantasía",
@@ -1023,7 +1023,7 @@
    },
    {
       "id": 75,
-      "poster": "./posters/75.jpg",
+      "poster": "/posters/75.jpg",
       "titulo": "El Contador",
       "categoria": "Película",
       "gen": "Aventura",
@@ -1037,7 +1037,7 @@
    },
    {
       "id": 76,
-      "poster": "./posters/76.jpg",
+      "poster": "/posters/76.jpg",
       "titulo": "Mala Educación",
       "categoria": "Película",
       "gen": "Suceso Real",
@@ -1051,7 +1051,7 @@
    },
    {
       "id": 78,
-      "poster": "./posters/78.jpg",
+      "poster": "/posters/78.jpg",
       "titulo": "Noche en el Museo",
       "categoria": "Película",
       "gen": "Aventura",
@@ -1065,7 +1065,7 @@
    },
    {
       "id": 79,
-      "poster": "./posters/79.jpg",
+      "poster": "/posters/79.jpg",
       "titulo": "Bohemian Rhapsody",
       "categoria": "Película",
       "gen": "Suceso Real",
@@ -1079,7 +1079,7 @@
    },
    {
       "id": 80,
-      "poster": "./posters/80.jpg",
+      "poster": "/posters/80.jpg",
       "titulo": "Rock of ages",
       "categoria": "Película",
       "gen": "Comedia",
@@ -1093,7 +1093,7 @@
    },
    {
       "id": 81,
-      "poster": "./posters/81.jpg",
+      "poster": "/posters/81.jpg",
       "titulo": "Super 8",
       "categoria": "Película",
       "gen": "Ciencia Ficción",
@@ -1107,7 +1107,7 @@
    },
    {
       "id": 82,
-      "poster": "./posters/82.jpg",
+      "poster": "/posters/82.jpg",
       "titulo": "Jurassic World - El reino caido",
       "categoria": "Película",
       "gen": "Aventura",
@@ -1121,7 +1121,7 @@
    },
    {
       "id": 83,
-      "poster": "./posters/83.jpg",
+      "poster": "/posters/83.jpg",
       "titulo": "Indiana Jones - y el Reino de la Calavera de Cristal",
       "categoria": "Película",
       "gen": "Aventura",
@@ -1135,7 +1135,7 @@
    },
    {
       "id": 84,
-      "poster": "./posters/84.jpg",
+      "poster": "/posters/84.jpg",
       "titulo": "Los Goonies",
       "categoria": "Película",
       "gen": "Familia",
@@ -1149,7 +1149,7 @@
    },
    {
       "id": 85,
-      "poster": "./posters/85.jpg",
+      "poster": "/posters/85.jpg",
       "titulo": "Cars",
       "categoria": "Película",
       "gen": "Familia",
@@ -1163,7 +1163,7 @@
    },
    {
       "id": 86,
-      "poster": "./posters/86.jpg",
+      "poster": "/posters/86.jpg",
       "titulo": "Los pingüinos de Madagascar",
       "categoria": "Película",
       "gen": "Familia",
@@ -1177,7 +1177,7 @@
    },
    {
       "id": 87,
-      "poster": "./posters/87.jpg",
+      "poster": "/posters/87.jpg",
       "titulo": "Cementerio de animales",
       "categoria": "Película",
       "gen": "Terror",
@@ -1191,7 +1191,7 @@
    },
    {
       "id": 88,
-      "poster": "./posters/88.jpg",
+      "poster": "/posters/88.jpg",
       "titulo": "Poltergeist",
       "categoria": "Película",
       "gen": "Terror",
@@ -1205,7 +1205,7 @@
    },
    {
       "id": 89,
-      "poster": "./posters/89.jpg",
+      "poster": "/posters/89.jpg",
       "titulo": "El código Da Vinci",
       "categoria": "Película",
       "gen": "Aventura",
@@ -1219,7 +1219,7 @@
    },
    {
       "id": 90,
-      "poster": "./posters/90.jpg",
+      "poster": "/posters/90.jpg",
       "titulo": "Johnny English",
       "categoria": "Película",
       "gen": "Comedia",
@@ -1233,7 +1233,7 @@
    },
    {
       "id": 91,
-      "poster": "./posters/91.jpg",
+      "poster": "/posters/91.jpg",
       "titulo": "Almost Famous",
       "categoria": "Película",
       "gen": "Drama",
@@ -1247,7 +1247,7 @@
    },
    {
       "id": 92,
-      "poster": "./posters/92.jpg",
+      "poster": "/posters/92.jpg",
       "titulo": "Escuela de Rock",
       "categoria": "Película",
       "gen": "Comedia",
@@ -1261,7 +1261,7 @@
    },
    {
       "id": 93,
-      "poster": "./posters/93.jpg",
+      "poster": "/posters/93.jpg",
       "titulo": "Mi pobre angelito",
       "categoria": "Película",
       "gen": "Familia",
@@ -1275,7 +1275,7 @@
    },
    {
       "id": 94,
-      "poster": "./posters/94.jpg",
+      "poster": "/posters/94.jpg",
       "titulo": "Aprendices fuera de línea",
       "categoria": "Película",
       "gen": "Comedia",
@@ -1289,7 +1289,7 @@
    },
    {
       "id": 95,
-      "poster": "./posters/95.jpg",
+      "poster": "/posters/95.jpg",
       "titulo": "Outsourced",
       "categoria": "Serie",
       "gen": "Comedia",
@@ -1303,7 +1303,7 @@
    },
    {
       "id": 96,
-      "poster": "./posters/96.jpg",
+      "poster": "/posters/96.jpg",
       "titulo": "Miedo Profundo",
       "categoria": "Película",
       "gen": "Suspenso",
@@ -1317,7 +1317,7 @@
    },
    {
       "id": 97,
-      "poster": "./posters/97.jpg",
+      "poster": "/posters/97.jpg",
       "titulo": "Everest",
       "categoria": "Película",
       "gen": "Suceso Real",
@@ -1331,7 +1331,7 @@
    },
    {
       "id": 98,
-      "poster": "./posters/98.jpg",
+      "poster": "/posters/98.jpg",
       "titulo": "La Familia Addams",
       "categoria": "Película",
       "gen": "Familia",

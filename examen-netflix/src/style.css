@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Shippori+Antique+B1&display=swap');
+*{box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans Condensed', sans-serif;
+  }
+    
+    body {
+      display: flex;
+      flex-direction: column; 
+      background: rgb(0,0,0);
+      
+    }
+  
+  header {
+    position: fixed;
+    z-index: 1000;
+    height: 55px;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(14, 14, 14);
+    color: rgb(255, 0, 0);
+    padding: 10px 20px;
+  }
+  
+  .title {
+    left: 20px;
+    position: fixed;
+    z-index: 10;
+  }
+
+  #userInfo {
+    color: white;
+    :last-child{
+      margin-left: 10px;
+      font-weight: bold;
+    }
+  }
+  
+  .logo-title {
+    font-weight: 500;
+    letter-spacing: 4px;
+    font-size: 30px;
+  }
+  
+  .login-container {
+    display:flex;
+    justify-content: end;
+    width: 100%;
+    right: 20px;
+    top: 10px;
+    height: 50px;
+    z-index: 10;
+    
+  }
+
+  #loginForm {
+    display: flex;
+  }
+
+  
+  .login-input {
+    width: 200px;
+    font-size: 16px;
+    flex-direction: row;
+    background-color: rgb(0, 0, 0);
+    border-radius: 4px;
+    border-color: rgb(214, 214, 214);
+    color: white;
+  }
+  
+  .login-button {
+    font-weight: bold;
+    background-color: rgb(255, 24, 24);
+    border: none;
+    cursor: pointer;
+  }
+  .login-button:hover{ transform: scale(1.1);
+  }
+  
+  .logout-button {
+    margin: 5px;
+    padding: 5px 10px;
+    background-color: rgb(255, 24, 197);
+    border: none;
+    cursor: pointer;}
+    .logout-button:hover{ transform: scale(1.1);
+  }
+  
+  
+  .genero {
+    text-transform: uppercase;
+    padding-top: 15vh;
+    text-align: center;
+    width: 100%;
+    padding-left: 40px;
+    padding-right: 40px;
+    display: block;
+    flex-direction: row;
+    color: white;
+  }
+  
+  .movie-container {
+    text-transform: uppercase;
+    padding-top: 4vh;
+    gap: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    background-color: black(255, 0, 0);
+  }
+  
+  .card {
+    mask-image: linear-gradient(black 98%,transparent);
+
+    border: 1px solid rgb(14, 14, 14);
+    background-color: rgb(29, 29, 29);
+    border-radius: 4px;
+    width: 180px;
+    margin: 10px;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .card:hover {
+    transform: scale(1.1);
+    filter: brightness(120%);
+    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.2);
+  }
+  
+  .card-picture img {
+    width: 100%;
+    border-radius: 4px;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .card-bottom {
+    padding: 10px;
+    :last-child{
+        color: blueviolet;
+    }
+}
+
+  
+  .card-bottom-title {
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .movie-detail-container {
+    padding-top: 15vh;
+    width: 100%;  
+    max-width: 100%; 
+    box-sizing: border-box; 
+  }
+  .details-header{
+    color: rgba(255, 255, 255, 0.384);
+    letter-spacing: 3px;
+    font-size: 4vh;
+    width: 100%;
+    background-origin: padding-box;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .movie-detail-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+}
+  .movie-poster{
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    gap: 20px;
+    padding-top: 10px;
+    height: 100%;
+    max-width: 300px;
+    border-radius: 10px;
+  }
+    img{
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+      object-fit: cover;
+      mask-image: linear-gradient(black 60%,transparent);
+    }
+    img:hover{
+      mask-image: linear-gradient(black 80%,transparent);
+      transform: scale(1.01);
+      filter: brightness(120%);
+    }
+  .movie-info{
+  max-width: 600px;
+  }
+  .movie-info h2{
+    text-transform: uppercase;
+  font-weight: bold;
+font-size: 40px;
+  }
